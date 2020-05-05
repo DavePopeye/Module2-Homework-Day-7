@@ -10,4 +10,20 @@ h1{
 .hCard{
     font-weight: bold;
 }
-   
+
+footer{
+    border-top: grey solid 1px;
+    margin-top: 40px;
+    margin-right: 200px;
+    margin-left: 200px;
+}
+
+h4{
+    padding-bottom: 20px;
+}
+
+footer p{
+    margin: 5px;
+}
+    
+    
