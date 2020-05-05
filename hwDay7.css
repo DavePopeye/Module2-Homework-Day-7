@@ -1,3 +1,13 @@
 .box{
-    justify-content: space-evenly;
+    justify-content: space-between;
 }
+
+h1{
+    text-align: center;
+    margin: 10px;
+}
+
+.hCard{
+    font-weight: bold;
+}
+   
